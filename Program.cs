@@ -13,6 +13,7 @@ namespace testrepo
         private static void SomeFunction()
         {
             Console.WriteLine("Byez");
+            Console.WriteLine("Byez boyz");
         }
     }
 }
